@@ -1,1 +1,2 @@
-# Sistemas-inform-ticos
+# Sistemas-informaticos
+¡Bienvenido al repositorio de Sistemas Informáticos! Este proyecto está diseñado para proporcionar recursos, configuraciones y ejemplos relacionados con la administración, configuración y optimización de sistemas informáticos. Aquí encontrarás documentación sobre diferentes aspectos de los sistemas informáticos, desde configuraciones de red hasta administración de servidores.
